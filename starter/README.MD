@@ -5,6 +5,7 @@ This project is a simple, responsive personal website built as part of Workshop 
 ## Workshop Overview
 
 By completing this project, the following features were implemented:
+
 - **A structured HTML page** with semantic sections (`header`, `nav`, `main`, `section`, `footer`)
 - **Custom CSS styling** with custom typography, colors, and layouts
 - **A navigation menu** linking to different page sections
@@ -36,6 +37,7 @@ In addition to the core tasks, the following bonus features have been completed:
 ## Testing & Validation
 
 The website has been tested and validated using the following methods:
+
 - Tested across multiple browsers (Chrome, Firefox, Safari) and screen sizes using browser DevTools.
 - HTML validated with the [W3C HTML Validator](https://validator.w3.org/).
 - CSS validated with the [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
